@@ -86,7 +86,7 @@ em {
 /* Navbar Logo */
 
 .navbar .brand {
-    background: url(https://github.com/FitMedia-net/support-hub/blob/191e2d42b488e744fa4e9155be6fbf6b72cf2ddf/FM-Logo-White.png) no-repeat;
+    background: url('https://github.com/FitMedia-net/support-hub/blob/main/FM-Logo.png') no-repeat;
     background-size: 100%, auto;
     background-position: 63% 50%;
     max-width: 238px;
