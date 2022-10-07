@@ -871,7 +871,7 @@ select {
 /* Article Page */
 
 #fullArticle {
-        max-width: 100%;
+    max-width: 100%;
     margin: auto;
     position: relative;
 }
@@ -933,7 +933,7 @@ select {
 }
 
 .contentWrapper a:hover {
-    text-decoration: none;
+    text-decoration: underline;
     color: rgba(27, 27, 27, 0.7);
     transition: 0.3s;
 }
