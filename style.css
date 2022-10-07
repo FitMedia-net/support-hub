@@ -786,7 +786,7 @@ footer p a:hover {
     transition: 0.3s;
 }
 
-/* Search Resaults */
+/* Search Results */
 
 #serp-dd.sb {
     border: 1px solid #1B1B1B;
@@ -930,10 +930,11 @@ select {
 .contentWrapper a {
     color: #1B1B1B;
     transition: 0.3s;
+    text-decoration: underline !important;
 }
 
 .contentWrapper a:hover {
-    text-decoration: underline;
+    text-decoration: underline !important;
     color: rgba(27, 27, 27, 0.7);
     transition: 0.3s;
 }
